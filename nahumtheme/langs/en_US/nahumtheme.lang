@@ -1,0 +1,54 @@
+# Copyright (C) 2023 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleNahumThemeName'
+ModuleNahumThemeName = NahumTheme
+# Module description 'ModuleNahumThemeDesc'
+ModuleNahumThemeDesc = NahumTheme description
+
+#
+# Admin page
+#
+NahumThemeSetup = NahumTheme setup
+Settings = Settings
+NahumThemeSetupPage = NahumTheme setup page
+NAHUMTHEME_MYPARAM1 = My param 1
+NAHUMTHEME_MYPARAM1Tooltip = My param 1 tooltip
+NAHUMTHEME_MYPARAM2=My param 2
+NAHUMTHEME_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+NahumThemeAbout = About NahumTheme
+NahumThemeAboutPage = NahumTheme about page
+
+#
+# Sample page
+#
+NahumThemeArea = Home NahumTheme
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
